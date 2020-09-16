@@ -110,10 +110,10 @@
   height: 100px;
   right: -50px;
   position: absolute;
-  /*top: -50px;
+  top: -50px;
   width: 100px;
   
-  -webkit-transform: rotate(-45deg);*/
+  -webkit-transform: rotate(-45deg);
 }
     
     </style>
@@ -127,27 +127,6 @@
                 
             
             
-            <div class="row mb-3">
-                <div class="col col-sm-10">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <h2 class="text-center" style="color:red;" > Individual And Family Application Form </h2>
-            <h6 class="text-center" > (For membership to be considered this declaration mus be completed in full and all questions answered) </h6>
-                        </div>
-                        <!--<div class="col-sm-5 content text-center">
-                            <span>  <?php  echo "$our_ref";  ?></span>
-                        </div>-->
-                    </div>
-
-                </div>
-                <div class="col col-sm-2">
-                    
-                    <!--<img src="assets/images/aarlogo.png" alt="" class= "img-thumbnail">-->
-                    <div class="arrow-right"></div>            
-                </div>
-
-                
-            </div>
             
             
             
