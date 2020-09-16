@@ -637,7 +637,7 @@
 
                 </div>
                 <div class="col col-sm-2">
-                    <img src="assets/images/aarlogo.png" alt="" class= "img-thumbnail">
+                    <img src="assets/image/aarlogo.png" alt="" class= "img-thumbnail">
                 </div>
 
                 
